@@ -1,2 +1,5 @@
-# restaurant-page
-Restaurant project to practise using npm and webpack
+# webpack template
+
+A template to setup a webpack based project
+
+Use npm install to install the package
