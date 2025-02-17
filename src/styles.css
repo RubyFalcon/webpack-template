@@ -166,24 +166,10 @@ a:hover {
     font-size: 0.7rem;
     text-align: center;
   }
-  header nav {
-    align-items: center;
-    justify-content: center;
-    padding: 1rem;
-    display: flex;
-    gap: 1rem;
-  }
-  nav button {
-    padding: 0;
-  }
 }
 
 @media (max-width: 400px) {
   .content {
     width: 20rem;
-  }
-
-  .menu-page {
-    margin-top: 4rem;
   }
 }
